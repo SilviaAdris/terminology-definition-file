@@ -1,0 +1,28 @@
+1.html stands for HyperText Markup Language and CSS stands for Cascading Style Sheet.
+2.HTML
+3.CSS
+4.an HTML tag is used to define the beginning and end of an HTML element.
+5.The opening tag, the content and the closing tag.
+6.to tell the browser what version of HTML it should use to render the document.
+7.The html element is the root element of the document, meaning that every other element in the document will be a descendant of it.
+8.The head element is where we put important meta-information about our webpages, and stuff required for our webpages to render correctly in the browser.
+9.In the body element is where all the content that will be displayed to users will go - the text, images, lists, links, and so on.
+10.By using the <p> element.
+11.By using the <h> element.
+12.There are six levels of headings(H1,H2,H3,H4,H5,H6) with H1 being the most important heading and H6 the least.
+13.The HTML <strong> element.
+14.The <i> element.
+15.a parent and child relationship. The nested elements are the children and the element they are nested within is the parent.
+16.Siblings.
+17.<!-- tag before the code and a --> tag after the code that I want to hide.
+18.<ul>.
+19.<ol>.
+20.<li>.
+21.<a>.
+22.Attributes provide additional information about elements.
+23.The href attribute.
+24.Absolute links are links to other websites and relative links are links to our website.
+25.<img>.
+26.the src attribute and alt attribute.
+27. ../
+28. PNG, JPG, JPEG, GIF.
